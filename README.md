@@ -1,5 +1,6 @@
 # html.e.css
- Curso de HTML5 e CSS3 do curso em vídeo
+
+Curso de HTML5 e CSS3 do curso em vídeo
 
 executar o <a href="https://bernardobortoloto.github.io/html-e-css/ex001/index.html">exercício 1</a>
 
@@ -19,7 +20,7 @@ executar o <a href="https://bernardobortoloto.github.io/html-e-css/ex008/index.h
 
 executar o <a href="https://bernardobortoloto.github.io/html-e-css/ex008b/index.html">exercício 8b</a>
 
-executar o <a href="https://bernardobortoloto.github.io/html-e-css/ex09/index.html">exercício 9</a>
+executar o <a href="https://bernardobortoloto.github.io/html-e-css/ex009/index.html">exercício 9</a>
 
 executar o <a href="https://bernardobortoloto.github.io/html-e-css/ex010/index.html">exercício 10</a>
 
